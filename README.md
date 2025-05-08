@@ -1,4 +1,4 @@
-# Blobcat-Fast-Web-Login-Page-Bruteforce-Tool
+# Blobcat Fast Web Login Page Bruteforce Tool
 
 ## Deskripsi
 
